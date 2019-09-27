@@ -81,7 +81,7 @@ for i in range(number):
 print(array)
 
 maxnum=0
-print("Каким может быть максимальное число?")
+print("Каким может быть максимальное число:")
 maxnum=int(input())
 
 smaller=[]
