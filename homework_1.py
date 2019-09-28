@@ -8,7 +8,7 @@ def IntOrNot(n):
     return int(n) == float(n)
 
 number=0
-print("Введите ваше число")
+print("Введите ваше число:")
 number=int(input())
 divided=0
 divisors=[]
