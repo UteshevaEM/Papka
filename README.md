@@ -1,2 +1,0 @@
-# PAPKA
- Krutaya papka
